@@ -1,1 +1,1 @@
-![GitHub Stats SVG](https://github-stats-svg.vercel.app/api/github-status?username=ultrasev)
+![GitHub Stats SVG](https://github-stats-smoky-rho.vercel.app/api/github-status?username=ultrasev)
